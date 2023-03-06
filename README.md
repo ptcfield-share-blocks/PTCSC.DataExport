@@ -8,7 +8,10 @@ This Software is not officially supported by PTC By downloading this software, t
 
 ## Overview
 
-The project is a standard building block in compliance with the building block design principles of PTC. It offers only the services to extract data from the database tables used by the PTC Domain-Specific Building Blocks (See PTC help pages for Domain-Specific Building Blocks). The block offers only export services without a UI interface therefore it is recommended to be installed and configured together with the generic UI block for export (PTCSC.DataExport).
+The project is a standard building block in compliance with the building block design principles of PTC. It offers an UI interface for exporting data from twx to excel or CSV file.Every sheet exported is associated with a service from a different building block.
+
+## Author
+| Madalin Costache | Associate Solutions Software Developer             |
 
 ## License
 
